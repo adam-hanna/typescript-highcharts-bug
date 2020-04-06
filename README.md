@@ -12,7 +12,7 @@ First, let me apologize to the people at Highcharts for my mean spirited tweet. 
 
 I am sorry. Thank you for taking the high road.
 
-Furthermore, there may very well be a mistake on my end causing that's these problems. It wouldn't be the first time...
+Furthermore, there may very well be a mistake on my end that is the cause of these problems. It wouldn't be the first time...
 
 ## Demo
 
@@ -63,6 +63,10 @@ But this was not easy to find in your docs, and I actually only solved this issu
 
 ## Documentation
 
-In general, I find your [documentation](https://api.highcharts.com/highcharts/) difficult to naviate, unintuitive and overall a non-pleasant experience. I also don't like how no examples are given in the documentation itself for the various methods. Yes, I know that you have plenty on your [demo page](https://www.highcharts.com/stock/demo/), but I'm not talking about full-fledged, end-to-end examples. Rather, just little snippets explaining the methods, etc.
+In general, I find your [documentation](https://api.highcharts.com/highcharts/) difficult to navigate, unintuitive and overall a non-pleasant experience. I also don't like how no examples are given in the documentation itself for the various methods. Yes, I know that you have plenty on your [demo page](https://www.highcharts.com/stock/demo/), but I'm not talking about full-fledged, end-to-end examples. Rather, just little snippets explaining the methods, etc.
 
 As an example, I love the various [golang pkg docs](https://golang.org/pkg/crypto/).
+
+## Thanks
+
+Thanks for taking the time to listen to my temper tantrum...
