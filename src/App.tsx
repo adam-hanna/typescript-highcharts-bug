@@ -9,7 +9,7 @@ const App = () => {
   useEffect(() => {
     ;(async function() {
       try {
-        const tmpData = Highcharts.getJSON('https://www.highcharts.com/samples/data/aapl-c.json');
+        const tmpData = await Highcharts.getJSON('https://www.highcharts.com/samples/data/aapl-c.json');
         setData(tmpData);
       } catch(e) {
         window.alert(e);
