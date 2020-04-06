@@ -1,6 +1,6 @@
 # Typescript Highcharts
 
-This is an example repo showing that typescript in Hicharts@^8.0.0 is broken, or at the very least, doesn't follow the most recent demo's.
+This is an example repo showing that typescript in Hicharts@8.0.4 is broken, or at the very least, doesn't follow the most recent demo's.
 
 This is in reply to my [tweet](https://twitter.com/adam_m_hanna/status/1246941906975756289)
 
